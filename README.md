@@ -54,3 +54,9 @@ Examples
     
 
 For more info look at chat examples on: http://workonomic.cc/help-main-en.html
+
+
+License
+-------
+
+GNU GPL v2
